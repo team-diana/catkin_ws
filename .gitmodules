@@ -1,0 +1,15 @@
+[submodule "src/vision"]
+	path = src/vision
+	url = git@github.com:team-diana/vision.git
+[submodule "src/suspension"]
+	path = src/suspension
+	url = git@github.com:team-diana/suspension.git
+[submodule "src/motor"]
+	path = src/motor
+	url = git@github.com:team-diana/motor.git
+[submodule "src/tools"]
+	path = src/tools
+	url = git@github.com:team-diana/tools.git
+[submodule "src/IO"]
+	path = src/IO
+	url = git@github.com:team-diana/IO.git

@@ -1,0 +1,16 @@
+# main direcotories to ignore
+#build
+#devel
+#install
+
+# main files to ignore
+*.log
+*.out
+*.bak
+*.old
+*.swp
+make.output
+*~
+
+# osx fix
+.DS_Store
