@@ -1,7 +1,7 @@
 # main direcotories to ignore
-#build
-#devel
-#install
+build
+devel
+install
 
 # main files to ignore
 *.log
